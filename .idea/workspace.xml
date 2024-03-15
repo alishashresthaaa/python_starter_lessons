@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1737449-27ed-4874-b116-dcef4b4cf5ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/py_cestar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-basic-syntax/01-variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-basic-syntax/02-simple-expression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-basic-syntax/03-operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-basic-syntax/04-logical-operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-data-types/01-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-data-types/02-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-data-types/03-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-data-types/04-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-data-types/05-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-data-types/06-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-conditionals/01-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-conditionals/02-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-conditionals/03-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-conditionals/04-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-conditionals/05-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-conditionals/06-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-conditionals/07-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-conditionals/08-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-exceptions/01-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-exceptions/02-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-exceptions/03-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-exceptions/04-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-functions/01-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-functions/02-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-functions/03-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-functions/04-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-functions/05-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-functions/06-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-functions/07-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-functions/08-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-bultin-functions/01-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-bultin-functions/02-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-bultin-functions/03-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-bultin-functions/04-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-bultin-functions/05-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-bultin-functions/06-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-bultin-functions/07-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/01-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/02-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/03-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/04-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/05-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/06-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/07-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/08-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/09-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/10-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/11-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/12-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-list/13-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-loops/01-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-loops/02-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-loops/03-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-loops/04-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-loops/05-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-loops/06-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-loops/07-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-loops/08-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-loops/09-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-loops/10-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-loops/11-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-files/01-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-files/02-question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-files/03-question.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2arxjJEZcWXAB2m4INmi98kCBdc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.03-question.executor": "Run",
+    "Python.04-question.executor": "Run",
+    "Python.05-question.executor": "Run",
+    "Python.06-question.executor": "Run",
+    "Python.10-question.executor": "Run",
+    "Python.11-question.executor": "Run",
+    "Python.12-question.executor": "Run",
+    "Python.13-question.executor": "Run",
+    "Python.assignment_2.executor": "Run",
+    "Python.assignment_3.executor": "Run",
+    "Python.assignment_4.executor": "Run",
+    "Python.quizzes_1_3.executor": "Run",
+    "Python.test1.executor": "Run",
+    "Python.week_five.executor": "Run",
+    "Python.week_four.executor": "Run",
+    "Python.week_one.executor": "Run",
+    "Python.week_six.executor": "Run",
+    "Python.week_three.executor": "Run",
+    "Python.week_two.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1737449-27ed-4874-b116-dcef4b4cf5ce" name="Changes" comment="" />
+      <created>1705090632775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705090632775</updated>
+    </task>
+    <servers />
+  </component>
+</project>
